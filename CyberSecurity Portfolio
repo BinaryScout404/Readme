@@ -1,0 +1,39 @@
+# CyberSecurity Portfolio
+
+Welcome to my CyberSecurity learning portfolio.
+
+This repository documents my practical labs, notes and projects while studying cybersecurity.
+
+## Platforms
+
+- TryHackMe
+- LetsDefend
+
+## Learning Goals
+
+- Networking
+- Linux
+- Windows
+- Offensive Security
+- Defensive Security
+- SOC Analysis
+- Threat Detection
+- Incident Response
+- Digital Forensics
+- Python Automation
+
+## Repository Structure
+
+- TryHackMe Labs
+- LetsDefend Learning Path
+- Scripts
+- Projects
+- Documentation
+
+---
+
+> Every document in this repository has been written using my own understanding after completing the corresponding lab or module.
+
+Author
+
+BinaryScout404
