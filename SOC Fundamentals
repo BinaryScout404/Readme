@@ -1,0 +1,70 @@
+# SOC Fundamentals
+
+Platform
+
+LetsDefend
+
+Learning Path
+
+SOC Analyst Learning Path
+
+Difficulty
+
+Beginner
+
+---
+
+## Objective
+
+Understand the purpose of a Security Operations Center (SOC), the responsibilities of its analysts and the incident response workflow.
+
+---
+
+## Topics Covered
+
+- What is a SOC
+- Blue Team
+- Security Monitoring
+- Incident Detection
+- Incident Response
+- Security Tools
+- SOC Roles
+
+---
+
+## Key Concepts
+
+### Security Operations Center
+
+A Security Operations Center continuously monitors and protects an organization's infrastructure against cyber threats.
+
+---
+
+### SOC Analyst
+
+A SOC Analyst investigates security alerts, validates incidents and helps contain malicious activity.
+
+---
+
+### Main Responsibilities
+
+- Monitor alerts
+- Investigate suspicious events
+- Escalate incidents
+- Document findings
+- Protect company assets
+
+---
+
+## Skills Learned
+
+- Understanding SOC operations
+- Security monitoring
+- Incident lifecycle
+- Blue Team mindset
+
+---
+
+## Summary
+
+This module introduced the daily responsibilities of a SOC analyst and the importance of continuous monitoring to identify threats before they impact the organization.
